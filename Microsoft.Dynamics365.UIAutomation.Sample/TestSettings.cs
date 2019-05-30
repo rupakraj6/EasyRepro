@@ -73,5 +73,6 @@ namespace Microsoft.Dynamics365.UIAutomation.Sample
         public static string CustomerService = "Customer Service Hub";
         public static string Project = "Project Resource Hub";
         public static string FieldService = "Field Resource Hub";
+        public static string Sourcing = "Sourcing";
     }
 }

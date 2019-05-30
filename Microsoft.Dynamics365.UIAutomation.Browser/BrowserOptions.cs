@@ -85,6 +85,7 @@ namespace Microsoft.Dynamics365.UIAutomation.Browser
             {
                 options.AddArgument("--user-agent=" + UserAgentValue);
             }
+            options.AddArgument("--no-sandbox");
 
             return options;
         }

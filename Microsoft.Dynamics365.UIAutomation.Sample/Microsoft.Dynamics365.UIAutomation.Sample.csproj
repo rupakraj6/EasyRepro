@@ -90,6 +90,7 @@
     <Compile Include="UCI\Create\CreateAccount.cs" />
     <Compile Include="UCI\Create\CreateCase.cs" />
     <Compile Include="UCI\Create\CreateContact.cs" />
+    <Compile Include="UCI\Create\CreateForecast.cs" />
     <Compile Include="UCI\Create\CreateLead.cs" />
     <Compile Include="UCI\Create\CreateOpportunity.cs" />
     <Compile Include="UCI\Delete\DeleteAccount.cs" />
